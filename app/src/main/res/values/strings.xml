@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Show Number As Image</string>
+    <string name="placeholder_number">Entre com o número</string>
+    <string name="label_button">Gerar número como imagem</string>
+</resources>
